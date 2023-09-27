@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @thews143115
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### boas vindas  ao meu perfil
 
-<!---
-thews143115/thews143115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+meu nome MATHEWS MOREIRA
+
+ESTOU ESTUDANDO O ALURA 
+ESTOU ME DESENVOUVENDO NOA LINGUAGEM JAVASCRIPT
+UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇAO E COMPARTILHAÇÃO DOS MEUS PROJETOS DESENVOLVIDOS 
+
+### VOCÊ ENTRAR EM CONTATO COMIGO 
+
+MAT2008MOREIRAGMAIL.COM
